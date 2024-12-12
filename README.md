@@ -349,6 +349,4 @@ git help <command>
 #### Nasty link
 
 
-this is a test
-
-this is a new branch called newBranch
+this is a new branch created by me
